@@ -33,3 +33,9 @@ npm run preview
 3. Permitir varias averías con la misma combinación de filtros.
 4. Añadir fotos, adjuntos y pasos de solución.
 5. Añadir búsqueda libre y filtros avanzados en HISTORIAL.
+
+
+## v2
+- Portada con el logo STELLANTIS suministrado.
+- Historial con filtros previos por MODELO y SECCIÓN.
+- El historial no muestra todos los defectos hasta seleccionar al menos un filtro.
